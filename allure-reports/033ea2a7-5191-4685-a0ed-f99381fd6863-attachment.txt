@@ -1,0 +1,5 @@
+/home/markich/Dev/AMZN/pages/base.py get_calling_module
+/home/markich/Dev/AMZN/pages/base.py get_screenshot_dir
+/home/markich/Dev/AMZN/pages/base.py set_screenshot_dir
+/home/markich/Dev/AMZN/pages/base.py register_driver
+/home/markich/Dev/AMZN/tests/test_registration_login.py test_successive_registration

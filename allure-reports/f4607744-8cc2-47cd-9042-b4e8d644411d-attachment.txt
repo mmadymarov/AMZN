@@ -1,0 +1,19 @@
+2022-07-01 07:49:48.536 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:49:50.590 | DEBUG    | utils.base_logging:write:92 - write | xpath, //button[text()='Sign In']
+2022-07-01 07:49:55.731 | INFO     | utils.base_logging:write:94 - write | Clicked on the "Sign In" section
+2022-07-01 07:49:55.737 | INFO     | utils.base_logging:write:94 - success | PASS: Successfully Selected 'Sign In' section
+
+2022-07-01 07:49:55.739 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:49:57.767 | DEBUG    | utils.base_logging:write:92 - write | xpath, //input[@placeholder='example@gmail.com']
+2022-07-01 07:49:59.965 | INFO     | utils.base_logging:write:94 - write | Set the email to: mmadymarov@gmail.com
+2022-07-01 07:49:59.973 | INFO     | utils.base_logging:write:94 - success | PASS: Email was successfully set to: mmadymarov@gmail.com
+
+2022-07-01 07:49:59.975 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:50:02.022 | DEBUG    | utils.base_logging:write:92 - write | xpath, //input[@type='password']
+2022-07-01 07:50:04.268 | INFO     | utils.base_logging:write:94 - write | Set the password to: 0FXHIZj5
+2022-07-01 07:50:04.275 | INFO     | utils.base_logging:write:94 - success | PASS: Password was successfully set to: 0FXHIZj5
+
+2022-07-01 07:50:04.276 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:50:06.307 | DEBUG    | utils.base_logging:write:92 - write | xpath, //button[text()='Continue']
+2022-07-01 07:50:11.419 | INFO     | utils.base_logging:write:94 - write | Clicked on the "Continue" button
+2022-07-01 07:50:11.426 | INFO     | utils.base_logging:write:94 - success | PASS: Login credentials successfully submitted

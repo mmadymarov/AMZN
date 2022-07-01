@@ -1,0 +1,14 @@
+2022-07-01 07:50:27.624 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:50:29.673 | DEBUG    | utils.base_logging:write:92 - write | xpath, //button[text()='Sign Up']
+2022-07-01 07:50:34.785 | INFO     | utils.base_logging:write:94 - write | Clicked on the "Sign Up" section
+2022-07-01 07:50:34.792 | INFO     | utils.base_logging:write:94 - success | PASS: Successfully Selected 'Sign Up' section
+
+2022-07-01 07:50:34.794 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:50:36.821 | DEBUG    | utils.base_logging:write:92 - write | xpath, //input[@placeholder='example@gmail.com']
+2022-07-01 07:50:38.998 | INFO     | utils.base_logging:write:94 - write | Set the email to: diazshannon@example.com
+2022-07-01 07:50:39.015 | INFO     | utils.base_logging:write:94 - success | PASS: Email was successfully set to: diazshannon@example.com
+
+2022-07-01 07:50:39.018 | DEBUG    | utils.base_logging:write:92 - write | xpath, //iframe[@class='login__iframe']
+2022-07-01 07:50:41.060 | DEBUG    | utils.base_logging:write:92 - write | xpath, //button[text()='Continue']
+2022-07-01 07:50:46.214 | INFO     | utils.base_logging:write:94 - write | Clicked on the "Continue" button
+2022-07-01 07:50:46.222 | INFO     | utils.base_logging:write:94 - success | PASS: Registration email successfully submitted
